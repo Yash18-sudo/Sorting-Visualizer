@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 ![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
+> [Live demo](https://yash18-sudo.github.io/Sorting-Visualizer/)
 
 ---
 
@@ -38,7 +38,6 @@ Useful links discribing the algorithms used
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
 
-[Back To The Top](#read-me-template)
 
 ---
 
